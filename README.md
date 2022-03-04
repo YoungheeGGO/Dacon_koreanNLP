@@ -1,6 +1,6 @@
 # Dacon_koreanNLP
 
-# Dacon 참가 경험 공유
+# Dacon 참가
 - hugging face 처음으로 사용해봄
 - nlp 관심이 없었지만, transfer learning 부분은 신박한 아이디어 인 것 같다.
 - 아무래도 수치형 데이터가 아니다 보니까 EDA 에 대한 중요도는 낮아지는 것 같고, 진짜 모델의 정확도만으로 겨루는 대회!
