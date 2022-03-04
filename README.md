@@ -1,5 +1,3 @@
-# Dacon_koreanNLP
-
 # Dacon 참가
 - hugging face 처음으로 사용해봄
 - nlp 관심이 없었지만, transfer learning 부분은 신박한 아이디어 인 것 같다.
