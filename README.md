@@ -1,3 +1,6 @@
+<img width="540" alt="test" src="https://user-images.githubusercontent.com/77769026/157384948-7e71cc8f-4afe-497f-b7f2-d3fdc5c41375.png">
+
+
 # Dacon 참가
 - hugging face 처음으로 사용해봄
 - nlp 관심이 없었지만, transfer learning 부분은 신박한 아이디어 인 것 같다.
