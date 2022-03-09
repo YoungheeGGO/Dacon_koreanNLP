@@ -1,5 +1,5 @@
 <img width="540" alt="test" src="https://user-images.githubusercontent.com/77769026/157384948-7e71cc8f-4afe-497f-b7f2-d3fdc5c41375.png">
-
+- 대회 세상 쿨하게 나감~
 
 # Dacon 참가
 - hugging face 처음으로 사용해봄
