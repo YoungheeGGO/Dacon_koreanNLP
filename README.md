@@ -2,7 +2,7 @@ I participated in a competition about Korean NLP sponsored by DACON.
 If you want to see the detail please click [here!](https://dacon.io/competitions/official/235875/overview/description)
 But it is writen in Korean.
 
-**Detail the Competition in English**
+**Detail the Competition in English**</br>
 The pairwise sentence is consist of premise and hypothesis.
 The goal of that competition is hypothesis is discriminated to Entailment, Contradiction, or Neutral by referring to the premise sentence.
 
