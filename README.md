@@ -8,7 +8,7 @@ The goal of that competition is hypothesis is discriminated to Entailment, Contr
 
 # What I felt.
 - This is my first time using `hugging face`.
-- I didn't have an interest in NLP, but I think the "transfer learning" method is a cool idea.
+- I learned the `transfer learning` method. And I think that is a cool idea.
 - The importance of EDA was lower than in other competitions because of no numeric data.
 - It competes for model accuracy only!
 - We didn't have a server, So We hope the colab supporting GPU is our only hope.
